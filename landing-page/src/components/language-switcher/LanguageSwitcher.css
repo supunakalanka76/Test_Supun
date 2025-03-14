@@ -1,0 +1,13 @@
+/* languageSwitcher.css */
+.language-switcher {
+    margin-left: 0.5rem;  /* ml-2 */
+    font-size: 0.875rem;  /* text-sm */
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+  
+  .language-switcher span {
+    margin-right: 0.25rem;  /* mr-1 */
+  }
+  
